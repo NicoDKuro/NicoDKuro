@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nico
+- 👋 Hi, I’m NicoDK
 - 👀 I’m interested in make this world a better place
 - 🌱 I’m currently learning how the world works, i think that the best way to start is through the programming
 
